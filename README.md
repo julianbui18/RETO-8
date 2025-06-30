@@ -66,6 +66,8 @@ C = (lambda capital, interes, meses: capital * (1 + interes) ** meses)(P, i, n)
 print("El valor total a pagar es: " + str(C))
 ```
 * Funcion 3 - Reto 5: Dado la figura de la imagen, desarrolle:
+![image](https://github.com/user-attachments/assets/6aa55f85-735e-4c08-bb07-0850aca57d51)
+
 * Una función matemática para calcular el área y el perimetro.
 * Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado ```r```, ```a``` y ```b```.
 * Revise como utilizar el valor de ```pi``` usando import math y math.pi
@@ -192,6 +194,8 @@ C = calcular_prestamo(P, i, n)
 print("El valor total a pagar es: " + str(C))
 ```
 * Funcion 3 - Reto 5: Dado la figura de la imagen, desarrolle:
+![image](https://github.com/user-attachments/assets/22168ac3-e55f-4beb-a6e2-720c7f7f08b6)
+
 * Una función matemática para calcular el área y el perimetro.
 * Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado ```r```, ```a``` y ```b```.
 * Revise como utilizar el valor de ```pi``` usando import math y math.pi
